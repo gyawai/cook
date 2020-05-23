@@ -1,0 +1,368 @@
+HR
+{
+    COLOR: #fc3;
+    HEIGHT: 1px
+}
+.blog_title
+{
+    width:660px;
+    padding-right:20px;
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 24px;
+    OVERFLOW: hidden;
+    COLOR: #333;
+    WORD-BREAK: break-all;
+    LETTER-SPACING: 1px
+}
+.blog_title A:link
+{
+    FONT-WEIGHT: bold;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.blog_title A:visited
+{
+    FONT-WEIGHT: bold;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.blog_title A:hover
+{
+    FONT-WEIGHT: bold;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.blog_title A:active
+{
+    FONT-WEIGHT: bold;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.blog_description
+{
+    width:660px;
+    padding-right:20px;
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    OVERFLOW: hidden;
+    COLOR: #333;
+    WORD-BREAK: break-all;
+    LETTER-SPACING: 1px
+}
+.blog_back
+{
+    BORDER-RIGHT: #000 1px dotted;
+    BORDER-LEFT: #000 1px dotted;
+    BACKGROUND-COLOR: #ff9;
+    align: center
+}
+.entry
+{
+    MARGIN: 0px 0px 20px
+}
+.entry_title
+{
+    BORDER-RIGHT: #000 1px solid;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: #000 1px solid;
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 2px;
+    MARGIN: 50px auto 0px 0px;
+    OVERFLOW: hidden;
+    BORDER-LEFT: #000 1px solid;
+    WIDTH: 90%;
+    COLOR: #333;
+    WORD-BREAK: break-all;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: #000 1px solid;
+    LETTER-SPACING: 1px;
+    BACKGROUND-COLOR: #ffc
+}
+.entry_text
+{
+    PADDING-RIGHT: 8px;
+    PADDING-LEFT: 8px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 8px;
+    COLOR: #333;
+    PADDING-TOP: 8px
+}
+.entry_text A:link
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: none
+}
+.entry_text A:visited
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: none
+}
+.entry_text A:active
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    BACKGROUND-COLOR: #ffc;
+    TEXT-DECORATION: none
+}
+.entry_text A:hover
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    BACKGROUND-COLOR: #ffc;
+    TEXT-DECORATION: none
+}
+.date
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #000
+}
+.entry_layer
+{
+    OVERFLOW: hidden;
+    WIDTH: 430px;
+    WORD-BREAK: break-all
+}
+.comment_layer
+{
+    OVERFLOW: hidden;
+    WIDTH: 430px;
+    WORD-BREAK: break-all
+}
+.posted
+{
+    PADDING-RIGHT: 8px;
+    BORDER-TOP: #000 1px dotted;
+    PADDING-LEFT: 8px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 4px;
+    COLOR: #333;
+    LINE-HEIGHT: 110%;
+    PADDING-TOP: 3px
+}
+.posted A:link
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: none
+}
+.posted A:visited
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: none
+}
+.posted A:active
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: underline
+}
+.posted A:hover
+{
+    FONT-WEIGHT: normal;
+    COLOR: #360;
+    TEXT-DECORATION: underline
+}
+.side{width:135px;}
+.side_title
+{
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: #000 1px dotted;
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    MARGIN: 10px 0px 0px;
+    OVERFLOW: hidden;
+    WIDTH: 132px;
+    COLOR: #333;
+    WORD-BREAK: break-all;
+    PADDING-TOP: 4px;
+    BORDER-BOTTOM: #000 1px dotted;
+    LETTER-SPACING: 1px
+}
+.side_text
+{
+    width:100%;    
+    PADDING-RIGHT: 5px;
+    PADDING-LEFT: 0px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    OVERFLOW: hidden;
+    COLOR: #333;
+    WORD-BREAK: break-all;
+    LINE-HEIGHT: 150%;
+    PADDING-TOP: 5px
+}
+.side_text A:link
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    LINE-HEIGHT: 150%;
+    TEXT-DECORATION: none;
+}
+.side_text A:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    LINE-HEIGHT: 150%;
+    TEXT-DECORATION: none;
+}
+.side_text A:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #360;
+    LINE-HEIGHT: 150%;
+    TEXT-DECORATION: underline;
+}
+.side_text A:active
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #360;
+    LINE-HEIGHT: 150%
+}
+
+.calendar
+{
+    PADDING-RIGHT: 1px;
+    PADDING-LEFT: 1px;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 20px;
+    COLOR: #333333;
+    LINE-HEIGHT: 150%;
+    PADDING-TOP: 0px
+}
+.calendar A
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    TEXT-DECORATION: underline
+}
+.calendar A:link
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    TEXT-DECORATION: underline
+}
+.calendar A:visited
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    TEXT-DECORATION: underline
+}
+.calendar A:active
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    TEXT-DECORATION: underline
+}
+.calendar A:hover
+{
+    FONT-SIZE: 10px;
+    COLOR: #360;
+    BACKGROUND-COLOR: #ffc;
+    TEXT-DECORATION: underline
+}
+.page
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    LETTER-SPACING: 1px
+}
+.page A:link
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.page A:visited
+{
+    FONT-SIZE: 10px;
+    COLOR: #333;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: none
+}
+.page A:hover
+{
+    FONT-SIZE: 10px;
+    COLOR: #360;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: underline
+}
+.page A:active
+{
+    FONT-SIZE: 10px;
+    COLOR: #360;
+    LETTER-SPACING: 1px;
+    TEXT-DECORATION: underline
+}
+.footer
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.footer A:link
+{
+    COLOR: #440000;
+    TEXT-DECORATION: underline
+}
+.footer A:visited
+{
+    COLOR: #440000;
+    TEXT-DECORATION: underline
+}
+.footer A:hover
+{
+    COLOR: #ff0000;
+    TEXT-DECORATION: underline
+}
+.footer A:active
+{
+    COLOR: #ff0000;
+    TEXT-DECORATION: underline
+}
+.footer_jp
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.footer_jp A:link
+{
+    COLOR: #440000;
+    TEXT-DECORATION: underline
+}
+.footer_jp A:visited
+{
+    COLOR: #440000;
+    TEXT-DECORATION: underline
+}
+.footer_jp A:hover
+{
+    COLOR: #ff0000;
+    TEXT-DECORATION: underline
+}
+.footer_jp A:active
+{
+    COLOR: #ff0000;
+    TEXT-DECORATION: underline
+}

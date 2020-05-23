@@ -1,0 +1,126 @@
+/* $Id: wloj.css,v 1.2 2004/05/11 05:31:41 yuji Exp $ */
+
+body {
+	background: white;
+	color: black;
+/*	margin-left: 3%;
+	margin-right: 3%; */
+}
+
+pre {
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #0000ff;
+}
+
+div.lang-navigator {
+	text-align: right;
+	font-size: small;
+}
+
+div.mirror-navigator {
+	text-align: right;
+	font-size: small;
+}
+
+div.doc-navigator {
+	text-align: center;
+	font-size: smaller;
+	color: rgb(40%,40%,40%);
+}
+
+div.news-navigator {
+	text-align: center;
+	font-size: small;
+	font-weight: bold;
+	color: rgb(0%,0%,0%);
+}
+
+div.copyright {
+	text-align: right;
+	font-family: helvetica, sans-serif;
+	font-size: smaller;
+	color: rgb(40%,40%,40%)
+}
+
+address.contact-info {
+	text-align: center;
+	font-size: smaller;
+}
+
+h1 {
+	background-color: #ccb;
+	text-align: center;
+}
+
+h2 {
+	background-color: #ddc;
+}
+
+h3 {
+	background-color: #eed;
+}
+
+table {
+	background-color: #eeeeee;
+}
+
+p {
+	text-indent: 0.5em;
+}
+
+p.noindent {
+	text-indent: 0em;
+}
+
+p.note {
+	text-indent: 0em;
+	margin-left: 25%;
+	font-size: smaller;
+}
+
+dl.list {
+	margin-left: 3%;
+}
+
+
+blockquote {
+	font-size: small;
+  color: #dd0000;
+}
+
+pre.example {
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #050;
+}
+
+a.normref { 
+	color : red;
+}	
+
+a.informref {
+	color : green;
+}	
+
+strong {
+	font-weight: bold;
+}
+
+dl dd {
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+}
+
+ul li {
+	padding-bottom: 0.3em;
+}
+
+span.note {
+	font-size: smaller;
+}
+
+/* as of now, @import has not impremented in NN4 nor IE3-4 */
+@import url(local.css)
+
+/* EOF */
